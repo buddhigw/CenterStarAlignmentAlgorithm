@@ -90,3 +90,5 @@ ATCGTGGTACTG---
 AACGTGCTACTG---
 ATGGT-GAAGTG---
 -CCG-GAAAACTTG-
+
+Here I attached the algrithm which was built using Python and C programming languages
